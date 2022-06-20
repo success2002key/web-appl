@@ -11,7 +11,7 @@
 <body>
 <h1 align="center">TechDom Medical Services.</h1>
 <h1 align="center">We are very passionate about patient care.
-	Rendering high quality medical services is our top priority.</h1>
+	Rendering high quality medical services is our top priority...</h1>
 <hr>
 <br>
 	<h1><h3> Server Side IP Address </h3><br>
